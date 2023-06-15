@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+.main {
+
+    text-align: center;
+    background-color: black;
+
+}
+
+.input {
+    width: 900px;
+    height: 77px;
+    background-color: black;
+    color: white;
+    border: none;
+    text-align: right;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex-row {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.item {
+    align-items: center;
+}
+
+
+.heading {
+    text-align: left;
+    margin-left: 300px;
+    font-size: 300%;
+    margin-bottom: 25px;
+    color: white;
+
+}
+
+.button {
+    width: 224px;
+    height: 111px;
+    background-color: rgb(81, 65, 65);
+    color: white;
+    font-size: 150%;
+}
+
+.button-row {
+    margin: 12px;
+}
